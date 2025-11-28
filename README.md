@@ -22,7 +22,7 @@
 git clone https://github.com/your-username/ynison-cli-monitor.git
 cd ynison-cli-monitor
 ```
-Установите зависимости:
+2. Установите зависимости:
 
 ```bash
 pip install aiohttp wcwidth
